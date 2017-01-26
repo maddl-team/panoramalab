@@ -83,5 +83,7 @@ footer_source:
   - no-image
 footer_parallax:
   - 'false'
+slide_template:
+  - default
 ---
 [mk_page_section full_width="true" sidebar="sidebar-1"][vc_column][mk_advanced_gmaps latitude="41.895006" longitude="12.474335" address="Via dei Chiavari, 40 - Roma" pin_icon="http://panoramalab.it/wp-content/uploads/2016/12/marker-gmap.png" content_font_color="#ffffff" height="400" map_zoom="18" modify_coloring="true" hue="#ffffff" saturation="-100"][/vc_column][/mk_page_section][mk_page_section sidebar="sidebar-1"][vc_column width="1/2"][mk_contact_form style="corporate" button_text="send" button_font_color="#ffffff" phone="true"][/vc_column][vc_column width="1/2"][mk_contact_info phone="+39 333 489 2001" email="inf@panoramalab.it" address="Via dei Chiavari, 40 - Roma" company="Panorama"][/vc_column][/mk_page_section]
