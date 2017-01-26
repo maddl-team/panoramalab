@@ -83,4 +83,6 @@ footer_source:
   - no-image
 footer_parallax:
   - 'false'
+slide_template:
+  - default
 ---
