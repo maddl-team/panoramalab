@@ -83,5 +83,7 @@ footer_source:
   - no-image
 footer_parallax:
   - 'false'
+slide_template:
+  - default
 ---
 [vc_row][vc_column][mk_gallery images="182,183,184,185,186,187,188,189" style="style3"][/vc_column][/vc_row]
