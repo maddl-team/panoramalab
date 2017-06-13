@@ -1,7 +1,7 @@
 ---
 ID: 179
 post_title: Lookbook
-author: Panoramalab
+author: Michele Abis
 post_date: 2016-12-12 00:55:38
 post_excerpt: ""
 layout: page
@@ -86,4 +86,4 @@ footer_parallax:
 slide_template:
   - default
 ---
-[vc_row][vc_column][mk_gallery images="182,183,184,185,186,187,188,189" style="style3"][/vc_column][/vc_row]
+[vc_row][vc_column][mk_portfolio style="grid" hover_scenarios="cube" height="500" column="1" sortable="false"][/vc_column][/vc_row]
