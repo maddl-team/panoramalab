@@ -86,4 +86,4 @@ footer_parallax:
 slide_template:
   - default
 ---
-[vc_row][vc_column][mk_portfolio style="grid" hover_scenarios="cube" height="500" column="1" sortable="false"][/vc_column][/vc_row]
+[vc_row][vc_column][mk_portfolio style="grid" hover_scenarios="cube" height="500" column="1" zoom_icon="false" sortable="false"][/vc_column][/vc_row]
