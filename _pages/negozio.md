@@ -1,7 +1,7 @@
 ---
 ID: 34
 post_title: Shop
-author: Panoramalab
+author: Michele Abis
 post_date: 2016-11-29 11:52:26
 post_excerpt: ""
 layout: page
