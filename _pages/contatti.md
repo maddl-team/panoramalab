@@ -1,7 +1,7 @@
 ---
 ID: 164
 post_title: Contatti
-author: Panoramalab
+author: Michele Abis
 post_date: 2016-12-09 17:02:44
 post_excerpt: ""
 layout: page
